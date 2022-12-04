@@ -16,8 +16,8 @@
 <br>
 
 <div align="center">
-  <div>🚁 FrontEnd : JS, TS, React, Angular, Vue</div>
-  <div>🚀 BackEnd : Node, Next, C#, .Net5</div>
+  <div>🚁 FrontEnd : JS, TS, React, NextJS</div>
+  <div>🚀 BackEnd : Node, C#, .Net, JAVA</div>
   <div>🛩️ DevOps : AWS, AZURE, CI/CD</div>
   <div>🛰️ UX/UI</div>
 </div>

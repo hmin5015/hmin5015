@@ -16,10 +16,12 @@
 <br>
 
 <div align="center">
-  <div>🚁 FrontEnd : JS, TS, React, NextJS</div>
-  <div>🚀 BackEnd : Node, C#, .Net, JAVA</div>
-  <div>🛩️ DevOps : AWS, AZURE, CI/CD</div>
-  <div>🛰️ UX/UI</div>
+  <div>🚁 FrontEnd : HTML5, CSS3, SCSS, TailwindCSS, Bootstrap, JS, TS, React, Next.JS, Angular</div>
+  <div>🚀 BackEnd : Node.JS, C#, .Net, JAVA, Kotlin, Python</div>
+  <div>🛩️ DevOps : AWS, AZURE, GCP</div>
+  <div>🛩️ Database : MS-SQL, MySQL, MongoDB, Redis</div>
+  <div>🛰️ Sourct Control: Git, TFS, SVN</div>
+  <div>🛰️ UX/UI, Figma, Jira, Confluent, Bitbucket, Github</div>
 </div>
 
 <br>

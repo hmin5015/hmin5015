@@ -50,17 +50,5 @@ src="https://img.shields.io/github/followers/hmin5015?logo=github&style=for-the-
 ### Socials
 
 <p align="left">  
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/jeong-hong-min-64a986183" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 </p>
-
-
-### Badges
-
-<a href="http://www.github.com/hmin5015"><img src="https://github-readme-stats.vercel.app/api?username=hmin5015&show_icons=true&hide=contribs&count_private=true&title_color=000000&text_color=ffffff&icon_color=0891b2&bg_color=37A977&hide_border=true&show_icons=true" alt="Jeong's GitHub stats" /></a>
-
-  
-  
-
-
-
